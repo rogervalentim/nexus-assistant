@@ -1,0 +1,363 @@
+{
+  "tickets": [
+    {
+      "id": "INC-2024-001",
+      "title": "Notebook lento após atualização",
+      "description": "Após a última atualização do Windows, o notebook demora para iniciar e trava constantemente ao abrir aplicações corporativas.",
+      "status": "open",
+      "priority": "high",
+      "type": "incident",
+      "category": "hardware",
+      "userEmail": "ana.silva@nexo.com.br",
+      "assignedTo": "Transferido para você · ramal 4120",
+      "createdAt": "2026-10-30T14:40:00.000Z",
+      "updatedAt": "2026-10-31T14:41:00.000Z"
+    },
+    {
+      "id": "INC-2024-002",
+      "title": "Acesso à pasta Financeiro",
+      "description": "SharePoint · Permissão de leitura e edição na pasta compartilhada da diretoria financeira.",
+      "status": "in_progress",
+      "priority": "medium",
+      "type": "incident",
+      "category": "access",
+      "userEmail": "ana.silva@nexo.com.br",
+      "assignedTo": "Ricardo Andrade",
+      "createdAt": "2026-10-29T10:00:00.000Z",
+      "updatedAt": "2026-10-31T09:00:00.000Z"
+    },
+    {
+      "id": "REQ-2024-003",
+      "title": "Segundo monitor para home office",
+      "description": "REQ-2024-003 · Aprovado · Monitor homologado Dell 27 polegadas para setup ergonômico.",
+      "status": "resolved",
+      "priority": "low",
+      "type": "request",
+      "category": "hardware",
+      "userEmail": "ana.silva@nexo.com.br",
+      "createdAt": "2026-10-28T14:00:00.000Z",
+      "updatedAt": "2026-10-30T16:00:00.000Z"
+    },
+    {
+      "id": "REQ-2024-002",
+      "title": "Configuração de impressora no celular",
+      "description": "REQ-2024-002 · Resolvido em 08 out",
+      "status": "closed",
+      "priority": "low",
+      "type": "request",
+      "category": "printer",
+      "userEmail": "ana.silva@nexo.com.br",
+      "createdAt": "2026-10-08T11:00:00.000Z",
+      "updatedAt": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "INC-2024-004",
+      "title": "Troca de teclado de rede",
+      "description": "INC-2024-004 · Resolvido em 01 out",
+      "status": "closed",
+      "priority": "low",
+      "type": "incident",
+      "category": "hardware",
+      "userEmail": "ana.silva@nexo.com.br",
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-10-01T14:00:00.000Z"
+    },
+    {
+      "id": "TKT-0001",
+      "title": "VPN não conecta após atualização do Windows",
+      "description": "Após a atualização do Windows 11 22H2, o cliente VPN Cisco AnyConnect apresenta erro 'Unable to establish VPN connection'. Já tentei reiniciar o serviço e reinstalar o cliente.",
+      "status": "open",
+      "priority": "high",
+      "type": "incident",
+      "category": "vpn",
+      "userEmail": "ana.souza@nexo.com.br",
+      "createdAt": "2026-10-29T17:57:42.528Z",
+      "updatedAt": "2026-10-30T17:57:42.528Z"
+    },
+    {
+      "id": "TKT-0002",
+      "title": "Solicitação de acesso ao sistema ERP",
+      "description": "Preciso de acesso de leitura ao módulo de relatórios do ERP SAP para elaboração do relatório trimestral.",
+      "status": "in_progress",
+      "priority": "medium",
+      "type": "request",
+      "category": "access",
+      "userEmail": "ana.souza@nexo.com.br",
+      "assignedTo": "Ricardo Andrade",
+      "createdAt": "2026-10-26T17:57:42.528Z",
+      "updatedAt": "2026-10-31T14:57:42.528Z"
+    },
+    {
+      "id": "TKT-0003",
+      "title": "Notebook travando frequentemente",
+      "description": "Meu notebook Dell Latitude está travando a cada 30-40 minutos. Preciso forçar reinicialização.",
+      "status": "open",
+      "priority": "high",
+      "type": "incident",
+      "category": "hardware",
+      "userEmail": "bruno.melo@nexo.com.br",
+      "createdAt": "2026-10-30T17:57:42.528Z",
+      "updatedAt": "2026-10-30T17:57:42.528Z"
+    },
+    {
+      "id": "TKT-0004",
+      "title": "E-mail do Outlook não sincroniza",
+      "description": "O Outlook 365 não está sincronizando os e-mails desde ontem às 14h. Consigo acessar pelo Webmail normalmente.",
+      "status": "resolved",
+      "priority": "medium",
+      "type": "incident",
+      "category": "email",
+      "userEmail": "carla.dias@nexo.com.br",
+      "resolution": "Cache do Outlook limpo e perfil recriado. Sincronização restaurada.",
+      "createdAt": "2026-10-28T17:57:42.528Z",
+      "updatedAt": "2026-10-29T17:57:42.528Z"
+    },
+    {
+      "id": "TKT-0005",
+      "title": "Impressora HP do setor não imprime",
+      "description": "A impressora HP LaserJet do andar 3 está offline. Nenhum computador do setor consegue imprimir.",
+      "status": "open",
+      "priority": "medium",
+      "type": "incident",
+      "category": "printer",
+      "userEmail": "diego.lima@nexo.com.br",
+      "createdAt": "2026-10-31T13:57:42.528Z",
+      "updatedAt": "2026-10-31T13:57:42.528Z"
+    },
+    {
+      "id": "TKT-0006",
+      "title": "Solicitação de software Adobe Creative Cloud",
+      "description": "Preciso do Adobe Photoshop e Illustrator para as novas campanhas de marketing.",
+      "status": "waiting_user",
+      "priority": "low",
+      "type": "request",
+      "category": "software",
+      "userEmail": "elena.castro@nexo.com.br",
+      "assignedTo": "Mariana Figueiredo",
+      "createdAt": "2026-10-24T17:57:42.528Z",
+      "updatedAt": "2026-10-29T17:57:42.528Z"
+    },
+    {
+      "id": "TKT-0007",
+      "title": "VPN não conecta no notebook — erro 800",
+      "description": "Usuário relata impossibilidade de conectar na VPN corporativa com mensagem de erro 800 ao tentar autenticar pelo notebook Dell. Apenas este colaborador afetado no momento.",
+      "status": "open",
+      "priority": "medium",
+      "type": "incident",
+      "category": "vpn",
+      "userEmail": "ana.silva@nexo.com.br",
+      "createdAt": "2026-10-31T17:57:48.064Z",
+      "updatedAt": "2026-10-31T17:57:48.064Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess-ana-silva",
+      "userEmail": "ana.silva@nexo.com.br",
+      "userName": "Ana Silva",
+      "status": "with_analyst",
+      "messageCount": 8,
+      "createdAt": "2026-10-31T14:40:00.000Z",
+      "updatedAt": "2026-10-31T18:00:18.445Z",
+      "escalationReason": "Usuário solicitou suporte N2 para o chamado INC-2024-001 (notebook lento e prazo vencido).",
+      "messages": [
+        {
+          "id": "msg-1",
+          "role": "user",
+          "content": "Qual o status do meu chamado?",
+          "createdAt": "2026-10-31T14:40:00.000Z"
+        },
+        {
+          "id": "msg-2",
+          "role": "assistant",
+          "content": "Você tem 3 chamados abertos. Sobre qual deles você gostaria de falar?",
+          "createdAt": "2026-10-31T14:40:30.000Z"
+        },
+        {
+          "id": "msg-3",
+          "role": "user",
+          "content": "INC-2024-001 - Meu caso é urgente, preciso de retorno",
+          "createdAt": "2026-10-31T14:41:00.000Z"
+        },
+        {
+          "id": "msg-4",
+          "role": "assistant",
+          "content": "Este chamado já está com a fila de suporte N2 sob responsabilidade de Carlos Mendes. Gostaria de falar com o atendente responsável?",
+          "createdAt": "2026-10-31T14:41:40.000Z"
+        },
+        {
+          "id": "msg-5",
+          "role": "user",
+          "content": "Sim, por favor. É sobre o notebook.",
+          "createdAt": "2026-10-31T14:42:10.000Z"
+        },
+        {
+          "id": "msg-6",
+          "role": "user",
+          "content": "O chamado está com o prazo vencido.",
+          "createdAt": "2026-10-31T14:42:30.000Z"
+        },
+        {
+          "id": "msg-7",
+          "role": "assistant",
+          "content": "Transferindo para o suporte N2. Um analista vai falar com você em instantes.",
+          "createdAt": "2026-10-31T14:43:00.000Z"
+        },
+        {
+          "id": "msg-analyst-1",
+          "role": "assistant",
+          "content": "Olá Ana! Sou o Carlos Mendes do suporte N2. Já localizei seu chamado INC-2024-001 e estou verificando o equipamento agora.",
+          "createdAt": "2026-10-31T18:00:18.445Z"
+        }
+      ],
+      "analystId": "ana-002"
+    },
+    {
+      "id": "sess-carlos-monteiro",
+      "userEmail": "carlos.monteiro@nexo.com.br",
+      "userName": "Carlos Monteiro",
+      "status": "with_analyst",
+      "analystId": "ana-002",
+      "messageCount: 4": 4,
+      "createdAt": "2026-10-31T14:20:00.000Z",
+      "updatedAt": "2026-10-31T14:32:00.000Z",
+      "escalationReason": "Solicitação de licença CRM e configuração de SSO.",
+      "messages": [
+        {
+          "id": "cm-1",
+          "role": "user",
+          "content": "Preciso de ajuda urgente para acessar o painel de vendas no CRM.",
+          "createdAt": "2026-10-31T14:25:00.000Z"
+        },
+        {
+          "id": "cm-2",
+          "role": "assistant",
+          "content": "Transferindo para analista do Service Desk.",
+          "createdAt": "2026-10-31T14:26:00.000Z"
+        },
+        {
+          "id": "cm-3",
+          "role": "assistant",
+          "content": "Olá Carlos! Carlos Mendes do suporte aqui. Estou redefinindo sua permissão no AD para sincronizar com o Salesforce.",
+          "createdAt": "2026-10-31T14:32:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sess-beatriz-torres",
+      "userEmail": "beatriz.torres@nexo.com.br",
+      "userName": "Beatriz Torres",
+      "status": "waiting_analyst",
+      "messageCount": 3,
+      "createdAt": "2026-10-31T12:00:00.000Z",
+      "updatedAt": "2026-10-31T12:15:00.000Z",
+      "messages": [
+        {
+          "id": "bt-1",
+          "role": "user",
+          "content": "Relatório fiscal não gerava o arquivo SPED.",
+          "createdAt": "2026-10-31T12:10:00.000Z"
+        },
+        {
+          "id": "bt-2",
+          "role": "assistant",
+          "content": "Transferindo para o analista responsável pelo ERP.",
+          "createdAt": "2026-10-31T12:15:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sess-diego-ramos",
+      "userEmail": "diego.ramos@nexo.com.br",
+      "userName": "Diego Ramos",
+      "status": "waiting_analyst",
+      "messageCount": 3,
+      "createdAt": "2026-10-31T10:50:00.000Z",
+      "updatedAt": "2026-10-31T11:05:00.000Z",
+      "messages": [
+        {
+          "id": "dr-1",
+          "role": "user",
+          "content": "Preciso de liberação urgente de porta no firewall para deploy em homologação.",
+          "createdAt": "2026-10-31T11:00:00.000Z"
+        },
+        {
+          "id": "dr-2",
+          "role": "assistant",
+          "content": "Transferindo para a fila de atendimento da equipe de infraestrutura.",
+          "createdAt": "2026-10-31T11:05:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sess-carla-dias",
+      "userEmail": "carla.dias@nexo.com.br",
+      "userName": "Carla Dias",
+      "status": "closed",
+      "messageCount": 4,
+      "createdAt": "2026-10-31T10:00:00.000Z",
+      "updatedAt": "2026-10-31T10:20:00.000Z",
+      "messages": [
+        {
+          "id": "cd-1",
+          "role": "user",
+          "content": "Acesso à folha de pagamento na intranet.",
+          "createdAt": "2026-10-31T10:10:00.000Z"
+        },
+        {
+          "id": "cd-2",
+          "role": "assistant",
+          "content": "Permissão concedida e validada com sucesso.",
+          "createdAt": "2026-10-31T10:20:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sess-paulo-souza",
+      "userEmail": "paulo.souza@nexo.com.br",
+      "userName": "Paulo Souza",
+      "status": "closed",
+      "messageCount": 2,
+      "createdAt": "2026-10-31T09:30:00.000Z",
+      "updatedAt": "2026-10-31T09:45:00.000Z",
+      "messages": [
+        {
+          "id": "ps-1",
+          "role": "user",
+          "content": "Solicitação de teclado USB.",
+          "createdAt": "2026-10-31T09:40:00.000Z"
+        },
+        {
+          "id": "ps-2",
+          "role": "assistant",
+          "content": "Equipamento retirado no almoxarifado de TI.",
+          "createdAt": "2026-10-31T09:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sess-fernanda-rocha",
+      "userEmail": "fernanda.rocha@nexo.com.br",
+      "userName": "Fernanda Rocha",
+      "status": "closed",
+      "messageCount": 3,
+      "createdAt": "2026-10-30T16:30:00.000Z",
+      "updatedAt": "2026-10-30T17:30:00.000Z",
+      "messages": [
+        {
+          "id": "fr-1",
+          "role": "user",
+          "content": "Dúvida sobre licença Canva Pro corporativa.",
+          "createdAt": "2026-10-30T17:00:00.000Z"
+        },
+        {
+          "id": "fr-2",
+          "role": "assistant",
+          "content": "Convite de equipe reenviado por e-mail.",
+          "createdAt": "2026-10-30T17:30:00.000Z"
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-10-31T18:00:18.445Z"
+}
